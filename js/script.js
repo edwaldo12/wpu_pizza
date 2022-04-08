@@ -20,6 +20,8 @@ function allMenu() {
   });
 }
 
+//asdfasfsfdasf
+
 allMenu();
 
 $(".nav-link").on("click", function () {
